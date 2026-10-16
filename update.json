@@ -2,6 +2,6 @@
   "version": "1.6.1",
   "apk_url": "https://raw.githubusercontent.com/ofluapp/vaktisalah/main/Vaktisalah%201.6.1.apk",
   "old_apk_url": "https://raw.githubusercontent.com/ofluapp/vaktisalah/main/Vaktisalah%201.6.apk",
-  "notes": "- Yeni Özel Alarm sistemi eklendi.\n- Kararlılık iyileştirmeleri yapıldı.",
-  "duyuru": "Sayın Kullanıcılarımız;\nYeni sürümdeki görsel hatalar giderilmiştir.\nİyi kullanımlar dileriz... Hayırlı cumalar"
+  "notes": "- Uyarı şeridi tek satıra düşürülüp inceltildi.\n- Arayüz butonları hizalandı.",
+  "duyuru": "Sayın Kullanıcılarımız;\nYeni sürümdeki görsel hatalar giderilmiştir.\nİyi kullanımlar dileriz."
 }
