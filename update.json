@@ -1,7 +1,6 @@
 {
-  "version": "1.6.1",
-  "apk_url": "https://raw.githubusercontent.com/ofluapp/vaktisalah/main/Vaktisalah%201.6.1.apk",
-  "old_apk_url": "https://raw.githubusercontent.com/ofluapp/vaktisalah/main/Vaktisalah%201.6.apk",
-  "notes": "- Uyarı şeridi tek satıra düşürülüp inceltildi.\n- Arayüz butonları hizalandı.",
-  "duyuru":" Yeni sürümdeki görsel hatalar giderilmiştir.\nİyi kullanımlar dileriz."
+  "version": "1.6.2",
+  "apk_url": "https://raw.githubusercontent.com/ofluapp/vaktisalah/main/Vaktisalah%201.6.2.apk",
+  "notes": "- Watchdog (Bekçi) sistemi eklenerek widget donma ve kapanma sorunları tamamen giderildi.\n- Güncelleme ekranı daha kararlı hale getirildi.",
+  "duyuru": "Sayın Kullanıcılarımız;\nArka plandaki donmalara karşı otomatik kurtarma sistemi eklenmiştir.\nİyi kullanımlar dileriz."
 }
