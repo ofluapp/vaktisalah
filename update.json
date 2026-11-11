@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "version": "1.6.2",
-  "apk_url": "https://raw.githubusercontent.com/ofluapp/vaktisalah/main/Vaktisalah%201.6.2.apk",
-  "notes": "- Watchdog (Bekçi) sistemi eklenerek widget donma ve kapanma sorunları tamamen giderildi.\n- Güncelleme ekranı daha kararlı hale getirildi.",
-  "duyuru": "Sayın Kullanıcılarımız;\nArka plandaki donmalara karşı otomatik kurtarma sistemi eklenmiştir.\nİyi kullanımlar dileriz."
+  "versionCode": 6,
+  "version": "1.8",
+  "apk_url": "https://raw.githubusercontent.com/ofluapp/vaktisalah/main/Vaktisalah%201.8.apk",
+  "notes": "- Köşe widget'ları için %20-%100 Şeffaflık (Opaklık) ayarı eklendi.\n- Ezan vaktinde TV sesini otomatik kısma (%50 veya Tam Sessiz) özelliği eklendi.\n- 10 saniyelik 'Vakit Girdi' bildirimi, Kerahat vakti uyarısı ve Kandil/Bayram/Cuma mesajları eklendi.\n- Alarm otomatik kaydetme, gece uykuda çalmama sorunu ve OLED ekran koruma iyileştirmeleri yapıldı.",
+  "duyuru": "Sayın Kullanıcılarımız;\nUygulamamız 1.8 sürümüne güncellenmiştir. Şeffaflık ayarı, ezan vaktinde TV sesini kısma, kandil/cuma hatırlatıcıları ve alarm kararlılık iyileştirmeleri eklenmiştir.\nİyi kullanımlar dileriz."
 }
