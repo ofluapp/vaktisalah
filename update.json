@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "version": "1.8",
-  "apk_url": "https://raw.githubusercontent.com/ofluapp/vaktisalah/main/Vaktisalah%201.8.apk",
-  "notes": "- Köşe widget'ları için %20-%100 Şeffaflık (Opaklık) ayarı eklendi.\n- Ezan vaktinde TV sesini otomatik kısma (%50 veya Tam Sessiz) özelliği eklendi.\n- 10 saniyelik 'Vakit Girdi' bildirimi, Kerahat vakti uyarısı ve Kandil/Bayram/Cuma mesajları eklendi.\n- Alarm otomatik kaydetme, gece uykuda çalmama sorunu ve OLED ekran koruma iyileştirmeleri yapıldı.",
-  "duyuru": "Sayın Kullanıcılarımız;\nUygulamamız 1.8 sürümüne güncellenmiştir. Şeffaflık ayarı, ezan vaktinde TV sesini kısma, kandil/cuma hatırlatıcıları ve alarm kararlılık iyileştirmeleri eklenmiştir.\nİyi kullanımlar dileriz."
+  "versionCode": 7,
+  "version": "1.9",
+  "apk_url": "https://raw.githubusercontent.com/ofluapp/vaktisalah/main/Vaktisalah%201.9.apk",
+  "notes": "- Cuma tebrik mesajı, cuma günleri öğle vaktinden 1 saat önce başlayacak şekilde ayarlandı.\n- Kandil ve gece tebrikleri İslami takvime uygun olarak (akşam ezanıyla başlayıp ertesi gün imsakta bitecek şekilde) düzeltildi.\n- Kerahat vakti uyarıları (Güneş sonrası, Öğle öncesi ve Akşam öncesi 45'er dakika) widget'lara eklendi.",
+  "duyuru": "Sayın Kullanıcılarımız;\nKerahat vakitleri ve kandil/cuma tebrik saatlerinde yaşanan kaymalar tamamen düzeltilmiştir.\nLütfen güncellemeyi yükleyiniz."
 }
