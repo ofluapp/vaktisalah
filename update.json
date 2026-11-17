@@ -1,6 +1,6 @@
 {
   "versionCode": 8,
-  "version": "1.9.1",
+  "version": "2.0",
   "apk_url": "https://raw.githubusercontent.com/ofluapp/vaktisalah/main/Vaktisalah%201.9.apk",
   "notes": "- Cuma tebrik mesajı, cuma günleri öğle vaktinden 1 saat önce başlayacak şekilde ayarlandı.\n- Kandil ve gece tebrikleri İslami takvime uygun olarak (akşam ezanıyla başlayıp ertesi gün imsakta bitecek şekilde) düzeltildi.\n- Kerahat vakti uyarıları (Güneş sonrası, Öğle öncesi ve Akşam öncesi 45'er dakika) widget'lara eklendi.",
   "duyuru": "Sayın Kullanıcılarımız;\nKerahat vakitleri ve kandil/cuma tebrik saatlerinde yaşanan kaymalar tamamen düzeltilmiştir.\nLütfen güncellemeyi yükleyiniz."
