@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "version": "1.9",
-  "apk_url": "https://raw.githubusercontent.com/ofluapp/vaktisalah/main/Vaktisalah%201.9.apk",
-  "notes": "- Cuma tebrik mesajı, cuma günleri öğle vaktinden 1 saat önce başlayacak şekilde ayarlandı.\n- Kandil ve gece tebrikleri İslami takvime uygun olarak (akşam ezanıyla başlayıp ertesi gün imsakta bitecek şekilde) düzeltildi.\n- Kerahat vakti uyarıları (Güneş sonrası, Öğle öncesi ve Akşam öncesi 45'er dakika) widget'lara eklendi.",
-  "duyuru": "Sayın Kullanıcılarımız;\nKerahat vakitleri ve kandil/cuma tebrik saatlerinde yaşanan kaymalar tamamen düzeltilmiştir.\nLütfen güncellemeyi yükleyiniz."
+  "versionCode": 8,
+  "version": "2.0",
+  "apk_url": "https://raw.githubusercontent.com/ofluapp/vaktisalah/main/Vaktisalah%202.0.apk",
+  "notes": "• Sabah, Öğle ve Akşam kerahat vakti uyarıları sayaç kutusundan bağımsız alt şerit olarak eklendi.\n• Vakit girdiğinde sayacı gizlemeden yanında açılan 15 saniyelik bildirim etiketi eklendi.\n• Cuma, Kandil ve Bayram tebrik mesajlarının saat aralıkları düzenlendi.\n• TV uyku modundan çıktığında widget'ları otomatik uyandıran bekçi sistemi iyileştirildi.\n• Güncelleme Merkezi ekran tasarımı yenilendi.",
+  "duyuru": "Sayın Kullanıcılarımız;\nKerahat vakti uyarıları, vakit giriş bildirimleri ve özel gün mesajları güncellenmiştir. Yeni 2.0 sürümünü indirip kurabilirsiniz."
 }
